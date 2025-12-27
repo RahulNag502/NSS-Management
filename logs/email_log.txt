@@ -1,0 +1,54 @@
+=== EMAIL LOG ===
+Time: 2025-11-25 13:09:14
+To: rahulnag502@gmail.com
+Subject: Password Reset Request - NSS Account
+Message:
+
+        <html>
+        <body style='font-family: Arial; background:#f9f9f9; padding:20px;'>
+            <h2>Password Reset</h2>
+            <p>Hello rahul,</p>
+            <p>Click the link below to reset your password:</p>
+            <p><a href='http://localhost/2/reset_password.php?token=d6070f272d09a49a58b224d90143c5606b34d8290371e0869d153418391b0099b3312206ebb5f7c11ee8c33dbbe501d3dc2f'>http://localhost/2/reset_password.php?token=d6070f272d09a49a58b224d90143c5606b34d8290371e0869d153418391b0099b3312206ebb5f7c11ee8c33dbbe501d3dc2f</a></p>
+            <p>If you didn’t request this, ignore this email.</p>
+            <p>NSS Team</p>
+        </body>
+        </html>
+================
+
+=== EMAIL LOG ===
+Time: 2025-11-25 13:09:24
+To: rahulnag502@gmail.com
+Subject: Password Reset Request - NSS Account
+Message:
+
+        <html>
+        <body style='font-family: Arial; background:#f9f9f9; padding:20px;'>
+            <h2>Password Reset</h2>
+            <p>Hello rahul,</p>
+            <p>Click the link below to reset your password:</p>
+            <p><a href='http://localhost/2/reset_password.php?token=50f0ee5ee878515dd21153f2e0a7149a7f60c3f7c0b8084ffbc177c106caea5a30feef42c4a115c4219fa111ed8dc8ec64b0'>http://localhost/2/reset_password.php?token=50f0ee5ee878515dd21153f2e0a7149a7f60c3f7c0b8084ffbc177c106caea5a30feef42c4a115c4219fa111ed8dc8ec64b0</a></p>
+            <p>If you didn’t request this, ignore this email.</p>
+            <p>NSS Team</p>
+        </body>
+        </html>
+================
+
+=== EMAIL LOG ===
+Time: 2025-11-25 13:14:49
+To: rahulnag502@gmail.com
+Subject: Password Reset Request - NSS Account
+Message:
+
+        <html>
+        <body style='font-family: Arial; background:#f9f9f9; padding:20px;'>
+            <h2>Password Reset</h2>
+            <p>Hello rahul,</p>
+            <p>Click the link below to reset your password:</p>
+            <p><a href='http://localhost/2/reset_password.php?token=c0b5d021fa79aaf4ac487fb3c5e92d2809f85d5c9c4c8789790c3ad5295b08514ec1cb7ca11a09ef9cd3c0a39c255a1741df'>http://localhost/2/reset_password.php?token=c0b5d021fa79aaf4ac487fb3c5e92d2809f85d5c9c4c8789790c3ad5295b08514ec1cb7ca11a09ef9cd3c0a39c255a1741df</a></p>
+            <p>If you didn’t request this, ignore this email.</p>
+            <p>NSS Team</p>
+        </body>
+        </html>
+================
+
